@@ -1,0 +1,25 @@
+add class container or div
+
+div red text
+
+div float to centre
+
+div responcive pictures
+
+div 
+
+
+on codex mashine {
+
+    install node : done;
+    install npm :
+    install git install
+    download ssh 
+    github link email slack staff
+    install simple grid
+}
+
+-- https://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp
+
+GitHub is the site where you will publish and share your code on the web.
+ Your code will live at http://github.com/<your-github-user-name>/<your-repository-name>.

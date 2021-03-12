@@ -1,0 +1,48 @@
+body 
+{
+	  background-color: lightblue;
+}
+
+h1
+{
+
+  	color: navy;
+  	margin-left: 20px;
+}
+
+h2
+{
+	color: red;
+}
+
+h3
+{
+	color: pink;
+}
+
+
+.imgfloatBelow
+{
+    color :beige;
+    //////////////////////
+}
+
+.textfloatNextToEA
+{
+    color :beige;
+    ////////////////////////
+}
+
+.mydivresize
+{
+    color: :beige;
+    ///////////////
+}
+
+.mydivfooterallign
+{
+    color: beige;
+    /////////////////////
+}
+
+.mydivfix
